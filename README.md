@@ -1,14 +1,14 @@
-#Meus Estudos de Python e NumPy
+# Meus Estudos de Python e NumPy
 Descrição
 Este repositório contém meu progresso e anotações enquanto estudo Python, com foco especial na biblioteca NumPy. Aqui você encontrará notebooks, scripts e recursos que documentam minha jornada de aprendizado.
 
-#Motivação
+# Motivação
 Iniciei este projeto para documentar minha aprendizagem, compartilhar conhecimento com outros entusiastas de Python e receber feedback da comunidade. Meu objetivo é aprofundar meu entendimento em análise de dados e computação científica usando Python.
 
-#Instalação
+# Instalação
 Para rodar os notebooks e scripts, você precisará do Python instalado em seu sistema. Recomendo usar um ambiente virtual. Instale as dependências usando:
 
-#Copy code
+# Copy code
 pip install -r requirements.txt
 Uso
 Você pode clonar este repositório e explorar os notebooks interativamente. Cada notebook e script inclui comentários detalhados sobre o que cada seção de código faz.
